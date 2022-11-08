@@ -1,6 +1,6 @@
 ## Falaaaa, eu sou o Gustavo Almeida
 
-- 🔭 Estudante Front-End
+- 🔭 Estudante e Desenvolvedor Front-End
 - 📫 contate-me no email gustavoalmeidahttp@gmail.com ou no meu https://www.linkedin.com/in/gusttavoalmeida/
 
 <div style="display: inline_block"><br>
